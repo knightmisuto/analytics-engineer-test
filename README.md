@@ -21,7 +21,7 @@ The project demonstrates:
     *   `las-vegas-mccarran-intl-ap-precipitation-inch.csv`
 
 ## Project Structure
-
+.
 ├── data/ # Directory to store input data (Not submitted)
 │ ├── Climate Data/ # Store GHCN-D CSV files here
 │ └── Yelp JSON/ # Store Yelp JSON files here
